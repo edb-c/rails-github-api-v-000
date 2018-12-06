@@ -27,6 +27,7 @@ gem 'figaro'
 gem 'pry'
 # Use Faraday for GET and POST
 gem 'faraday'
+
 # Dot-env
 gem 'dotenv-rails'
 
